@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**xauloq/xauloq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub 👋
 
-Here are some ideas to get you started:
+Hi there! I'm **Gergő Nagy**, currently studying at **Mechwart** and learning to master programming languages like **Java** and **C/C++**. I'm passionate about software development and constantly expanding my knowledge in the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Student** at Mechwart
+- 💻 Learning **Java** and **C/C++**
+- 🔍 Interested in software engineering, problem-solving, and developing cool projects
+- 🌱 Always open to learning new technologies and improving my skills
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages**: Java, C, C++
+- **Version Control**: Git, GitHub
+- **Operating System**: Linux (I use Arch btw)/ Windows 
