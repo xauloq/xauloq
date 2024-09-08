@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Welcome to My GitHub 👋
 
 Hi there! I'm **Gergő Nagy**, currently studying at **Mechwart** and learning to master programming languages like **Java** and **C/C++**. I'm passionate about software development and constantly expanding my knowledge in the field.
