@@ -4,7 +4,7 @@ Hi there! I'm **Gergő Nagy**, currently studying at **Mechwart** and learning t
 
 ## 🚀 About Me
 
-- 🎓 **Student** at Mechwart
+- 🎓 **Student** at Mechwart School for technical machinery and Informatics
 - 💻 Learning **Java** and **C/C++**
 - 🔍 Interested in software engineering, problem-solving, and developing cool projects
 - 🌱 Always open to learning new technologies and improving my skills
